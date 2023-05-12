@@ -1,6 +1,6 @@
 # better-sqlite3-typed
 
-Wrapper of [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) and [Zod](https://github.com/colinhacks/zod), providing methods and patterns to build both type safe (compile type) and validated (run time) SQLite SQL queries
+Wrapper of [better-sqlite3](https://github.com/JoshuaWise/better-sqlite3) and [Zod](https://github.com/colinhacks/zod), providing methods and patterns to build both type safe (compile time) and validated (run time) SQLite SQL queries
 
 ## better-sqlite3-typed.ts
 
